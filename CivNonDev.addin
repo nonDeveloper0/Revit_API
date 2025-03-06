@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>CivNonDev</Name>
+		<Assembly>CivNonDev.dll</Assembly>
+		<FullClassName>CivNonDev.App</FullClassName>
+		<ClientId>4F174231-5821-4516-995C-4CA71A7B905D</ClientId>
+		<VendorId>CivNonDev</VendorId>
+		<VendorDescription>pjwater727@dohwa.co.kr</VendorDescription>
+	</AddIn>
+</RevitAddIns>
